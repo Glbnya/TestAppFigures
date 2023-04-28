@@ -11,4 +11,10 @@
 Проверку на то, является ли треугольник прямоугольным
 
 Задание 2:
+
+Запрос положил рядом с файлами задания 1
+
 ![image](https://user-images.githubusercontent.com/65164767/235115502-dc704aae-9e70-42d8-808c-b7c053e792dd.png)
+![image](https://user-images.githubusercontent.com/65164767/235115786-a8e4a3ad-d45c-433e-9ce4-e89f3ff61421.png)
+![image](https://user-images.githubusercontent.com/65164767/235115824-e8446138-171b-4ed6-b74c-813078df452e.png)
+![image](https://user-images.githubusercontent.com/65164767/235115977-a0eac3bc-2a85-4b28-b589-2482ca40bb37.png)
